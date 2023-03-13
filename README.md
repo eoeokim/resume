@@ -6,5 +6,8 @@ school
 
 >  2021-2025 ewha woman's university
 
-github is very difficult for me...merong ibnida ~ !
-
+hobby
+=========
+영화 보기
+카페 도장 꺠기
+따릉이 타기 
