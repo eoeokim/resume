@@ -1,15 +1,21 @@
-Seoyeon Kim
----------
-school
-=========
-> 2018-2021 seoul arts high school 
+# resume
 
->  2021-2025 ewha woman's university
+### Seoyeon Kim
 
-hobby
-=========
-영화 보기
+## 학력
 
-카페 도장깨기
+- 2021-2025 ewha woman's university
 
-따릉이 타기
+## 경력
+
+## 보유 기술
+
+## 수상 경력
+
+## 참여 프로젝트
+
+## 자격증 및 어학
+
+
+
+
